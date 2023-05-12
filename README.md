@@ -1,5 +1,3 @@
-
-<a href="https://app.daily.dev/marinkitagawa"><img src="https://api.daily.dev/devcards/6d6d3b8c11614b6ca7d42803889936f8.png?r=ak5" width="400" alt="Marin Kitagawa's Dev Card"/></a>
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin-Kitagawa&hide=java,html,css&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/><br/><br/>
