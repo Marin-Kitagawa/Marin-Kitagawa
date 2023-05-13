@@ -118,7 +118,7 @@
 
 
 <img
-  src="https://github.com/Marin-Kitagawa/Marin-Kitagawa/blob/main/stat.svg"
+  src="https://github.com/Marin-Kitagawa/Marin-Kitagawa/blob/main/images/stat.svg"
   alt="Marin-Kitagawa WakaTime Activity"
 />
 
