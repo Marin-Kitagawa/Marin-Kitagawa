@@ -9,7 +9,7 @@ on:
 jobs:
   update-readme:
     name: Update the WakaTime Stat
-    runs-on: Gentoo
+    runs-on: ubuntu-latest
     steps:
       # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
       # Do not change the line below until you have forked this repository
@@ -25,4 +25,4 @@ jobs:
           # Manual Commit messages - write your own messages here
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
           # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
-          STATS_RANGE: "last_14_days"
+          STATS_RANGE: "all_time"
