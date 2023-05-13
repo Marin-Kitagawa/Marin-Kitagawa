@@ -187,15 +187,39 @@
 
 
 # Hosting platforms and Cloud services
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<table>
+	<tr>
+		<td align="center" width="64">
+			<img src="aws.svg" />
+		</td>
+		<td align="center" width="64">
+			<img src="vercel.svg" />
+		</td>
+	</tr>
+</table>
+
 
 # Frameworks I'm learning
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
+<table>
+	<tr>
+		<td align="center" width="64">
+			<img src="svelte.svg" />
+		</td>
+		<td align="center" width="64">
+			<img src="solid.svg" />
+		</td>
+	</tr>
+</table>
+
 
 # Game development platform I used for 3D & 2D game development
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<table>
+	<tr>
+		<td align="center" width="64">
+			<img src="unity.svg" />
+		</td>
+	</tr>
+</table>
 
 # Gaming
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
