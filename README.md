@@ -1,9 +1,11 @@
 # ❤️
+
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-000000?logo=arch-linux&logoColor=f00&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 # Languages I'm familiar with
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
@@ -116,7 +118,7 @@
 
 
 <img
-  src="https://github.com/Marin-Kitagawa/Marin-Kitagawa/blob/main/images/stat.svg"
+  src="https://github.com/Marin-Kitagawa/Marin-Kitagawa/blob/main/stat.svg"
   alt="Marin-Kitagawa WakaTime Activity"
 />
 
