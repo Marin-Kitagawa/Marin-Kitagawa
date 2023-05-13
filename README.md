@@ -104,29 +104,87 @@
 
 
 # Frameworks I use
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+<table>
+<tr>
+<td align="center" width="64">
+<img src="aws.svg" />
+</td>
+<td align="center" width="64">
+<img src="bootstrap.svg" />
+</td>
+<td align="center" width="64">
+<img src="chart.js.svg" />
+</td>
+<td align="center" width="64">
+<img src="django.svg" />
+</td>
+<td align="center" width="64">
+<img src="fastapi.svg" />
+</td>
+<td align="center" width="64">
+<img src="insomnia.svg" />
+</td>
+<td align="center" width="64">
+<img src="jquery.svg" />
+</td>
+<td align="center" width="64">
+<img src="next.svg" />
+</td>
+	</tr>
+	<tr>
+<td align="center" width="64">
+<img src="npm.svg" />
+</td>
+<td align="center" width="64">
+<img src="opencv.svg" />
+</td>
+<td align="center" width="64">
+<img src="pnpm.svg" />
+</td>
+<td align="center" width="64">
+<img src="rails.svg" />
+</td>
+<td align="center" width="64">
+<img src="react-query.svg" />
+</td>
+<td align="center" width="64">
+<img src="react-router.svg" />
+</td>
+<td align="center" width="64">
+<img src="react.svg" />
+</td>
+<td align="center" width="64">
+<img src="redux.svg" />
+</td>
+	</tr>
+	<tr>
+<td align="center" width="64">
+<img src="rollup.js.svg" />
+</td>
+<td align="center" width="64">
+<img src="ros.svg" />
+</td>
+<td align="center" width="64">
+<img src="sass.svg" />
+</td>
+<td align="center" width="64">
+<img src="solid.svg" />
+</td>
+<td align="center" width="64">
+<img src="svelte.svg" />
+</td>
+<td align="center" width="64">
+<img src="tailwind.svg" />
+</td>
+<td align="center" width="64">
+<img src="vercel.svg" />
+</td>
+<td align="center" width="64">
+<img src="vite.svg" />
+</td>
+</tr>
+</table>
+
 
 # Hosting platforms and Cloud services
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
