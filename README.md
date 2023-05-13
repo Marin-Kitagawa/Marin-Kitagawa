@@ -292,9 +292,21 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 # Forums I'm a part of
-![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
-![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+ 
+<table>
+	<tr>
+		<td align="center" width="64">
+			<img src="researchgate.svg" />
+		</td>
+		<td align="center" width="64">
+			<img src="stackexchange.svg" />
+		</td>
+		<td align="center" width="64">
+			<img src="stackoverflow.svg" />
+		</td>
+	</tr>
+</table>
+
 
 
 
