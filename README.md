@@ -117,11 +117,6 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 
-<img
-  src="https://github.com/Marin-Kitagawa/Marin-Kitagawa/blob/main/images/stat.svg"
-  alt="Marin-Kitagawa WakaTime Activity"
-/>
-
 
 
 # My most used languages
