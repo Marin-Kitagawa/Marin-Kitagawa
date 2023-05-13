@@ -4,7 +4,7 @@ on:
   push:
     branches: [master]
   schedule:
-    - cron: "50 1 * * *"
+    - cron: "9 2 * * *"
 
 jobs:
   update-readme:
