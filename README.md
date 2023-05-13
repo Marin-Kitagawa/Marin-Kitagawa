@@ -213,7 +213,7 @@
 </table>
 
 
-# Game development platform I used for 3D & 2D game development
+# Game development platform I use for 3D & 2D game development
 <table>
 	<tr>
 		<td align="center" width="64">
