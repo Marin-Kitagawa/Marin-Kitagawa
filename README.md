@@ -10,59 +10,59 @@
 
 <table>
 <tr>
-<td align="center" width="256">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />          
+<td align="center" width="64">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" wisth="64" height="64" />          
 </td>
-<td align="center" width="256">
+<td align="center" width="64">
     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
 </td>
-<td align="center" width="256">
+<td align="center" width="64">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" />
 </td>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></td>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></td>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
 </tr>
 <tr>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></td>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="latex.svg" /></td>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></td>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" /></td>
-<td align="center" width="256">
+<td align="center" width="64">
     <img src="org.svg" />
 </td>
-<td align="center" width="256">
+<td align="center" width="64">
     <img src="powershell.svg" />
 </td>
 </tr>
 <tr>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></td>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /></td>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" /></td>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="bash.svg" /></td>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
-<td align="center" width="256">
+<td align="center" width="64">
     <img src="qiskit.svg" />
 </td>
-<td align="center" width="256">
+<td align="center" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></td>
 
 </tr>
@@ -77,10 +77,10 @@
 
 <table>
 	<tr>
-		<td align="center" width="256">
+		<td align="center" width="64">
 			<img src="msoffice.svg" />
 		</td>
-		<td align="center" width="256">
+		<td align="center" width="64">
 			<img src="libreoffice.svg" />
 		</td>
 	</tr>
@@ -93,10 +93,10 @@
 # Terminals I use
 <table>
 	<tr>
-		<td align="center" width="256">
+		<td align="center" width="64">
 			<img src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" />
 		</td>
-		<td align="center" width="256">
+		<td align="center" width="64">
 			<img src="winterm.svg" />
 		</td>
 	</tr>
