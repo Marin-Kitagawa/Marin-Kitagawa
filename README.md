@@ -36,7 +36,7 @@
 <td align="center" width="256">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
 <td align="center" width="256">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /></td>
+ <img src="latex.svg" /></td>
 <td align="center" width="256">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></td>
 <td align="center" width="256">
@@ -56,7 +56,7 @@
 <td align="center" width="256">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" /></td>
 <td align="center" width="256">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></td>
+ <img src="bash.svg" /></td>
 <td align="center" width="256">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
 <td align="center" width="256">
