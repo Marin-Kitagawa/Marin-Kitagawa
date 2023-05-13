@@ -6,8 +6,6 @@
 
 # Languages I'm familiar with
 
-<br />
-
 <table>
 <tr>
 <td align="center" width="64">
@@ -68,11 +66,6 @@
 </tr>
 </table>
 
-
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48px" width="48px"/>
-
 # Office suite I use
 
 <table>
@@ -87,8 +80,16 @@
 </table>
 
 # Other Operating Systems I use
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+<table>
+	<tr>
+		<td align="center" width="64">
+			<img src="arch.svg" />
+		</td>
+		<td align="center" width="64">
+			<img src="kali.svg" />
+		</td>
+	</tr>
+</table>
 
 # Terminals I use
 <table>
@@ -222,10 +223,19 @@
 </table>
 
 # Gaming
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
+<table>
+	<tr>
+		<td align="center" width="64">
+			<img src="epic.svg" />
+		</td>
+		<td align="center" width="64">
+			<img src="riot.svg" />
+		</td>
+		<td align="center" width="64">
+			<img src="steam.svg" />
+		</td>
+	</tr>
+</table>
 
 # Browsers I use
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
@@ -235,17 +245,43 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
 # Databases I'm familiar with & use
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<table>
+    <tr>  
+        <td align="center" width="64">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+        </td>
+        <td align="center" width="64">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+        </td>
+        <td align="center" width="64">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+        </td>
+        <td align="center" width="64">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+        </td>
+        <td align="center" width="64">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
+        </td>
+        <td align="center" width="64">
+            <img src="planetscale.svg" />
+        </td>
+        <td align="center" width="64">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+        </td>
+        <td align="center" width="64">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+        </td>
+        <td align="center" width="64">
+            <img src="supabase.svg" />
+        </td>
+        <td align="center" width="64">
+            <img src="surreal.svg" />
+        </td>
+        <td align="center" width="64">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+        </td>
+    </tr>
+</table>
 
 # Coding platforms I participate in or solve challenges in
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
