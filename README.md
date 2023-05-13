@@ -74,15 +74,33 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48px" width="48px"/>
 
 # Office suite I use
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+<table>
+	<tr>
+		<td align="center" width="256">
+			<img src="msoffice.svg" />
+		</td>
+		<td align="center" width="256">
+			<img src="libreoffice.svg" />
+		</td>
+	</tr>
+</table>
 
 # Other Operating Systems I use
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 # Terminals I use
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
+<table>
+	<tr>
+		<td align="center" width="256">
+			<img src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" />
+		</td>
+		<td align="center" width="256">
+			<img src="winterm.svg" />
+		</td>
+	</tr>
+</table>
 
 
 # Frameworks I use
