@@ -42,10 +42,10 @@
 <td align="center" width="256">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" /></td>
 <td align="center" width="256">
-    <img src="https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white" />
+    <img src="org.svg" />
 </td>
 <td align="center" width="256">
-    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="powershell.svg" />
 </td>
 </tr>
 <tr>
@@ -60,7 +60,7 @@
 <td align="center" width="256">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
 <td align="center" width="256">
-    <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white" />
+    <img src="qiskit.svg" />
 </td>
 <td align="center" width="256">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></td>
