@@ -88,6 +88,9 @@
 		<td align="center" width="64">
 			<img src="kali.svg" />
 		</td>
+		<td align="center" width="64">
+			<img src="windows11.svg" />
+		</td>
 	</tr>
 </table>
 
