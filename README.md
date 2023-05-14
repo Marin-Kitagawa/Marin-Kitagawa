@@ -111,9 +111,6 @@
 <table>
 <tr>
 <td align="center" width="64">
-<img src="aws.svg" />
-</td>
-<td align="center" width="64">
 <img src="bootstrap.svg" />
 </td>
 <td align="center" width="64">
@@ -134,11 +131,12 @@
 <td align="center" width="64">
 <img src="next.svg" />
 </td>
-	</tr>
-	<tr>
+
 <td align="center" width="64">
 <img src="npm.svg" />
 </td>
+		</tr>
+	<tr>
 <td align="center" width="64">
 <img src="opencv.svg" />
 </td>
@@ -160,11 +158,12 @@
 <td align="center" width="64">
 <img src="redux.svg" />
 </td>
-	</tr>
-	<tr>
+
 <td align="center" width="64">
 <img src="rollup.js.svg" />
 </td>
+			</tr>
+	<tr>
 <td align="center" width="64">
 <img src="ros.svg" />
 </td>
@@ -186,6 +185,9 @@
 <td align="center" width="64">
 <img src="vite.svg" />
 </td>
+		<td align="center">
+			 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+		</td>
 </tr>
 </table>
 
