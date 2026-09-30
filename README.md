@@ -301,9 +301,6 @@
 <table>
 	<tr>
 		<td align="center" width="64">
-			<img src="researchgate.svg" />
-		</td>
-		<td align="center" width="64">
 			<img src="stackexchange.svg" />
 		</td>
 		<td align="center" width="64">
